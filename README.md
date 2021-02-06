@@ -1,1 +1,1 @@
-# terraform-sample-infracture
+# terraform-sample-infrastructure
